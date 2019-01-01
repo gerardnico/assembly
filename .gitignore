@@ -1,3 +1,4 @@
-hello_world/hello_world
+hello_world/linux/hello_world
+hello_world/linux/hello_world_linux
 *.o
 .idea

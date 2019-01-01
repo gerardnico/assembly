@@ -1,4 +1,4 @@
-# Hello World
+# Hello World on Linux
 
 ## About
 An Hello World assembly script made with Nasm

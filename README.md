@@ -6,7 +6,7 @@ A repository of Assembly code
 
 ## List
 
-  * [Hello World](hello_world/README.md)
+  * [Hello World](hello_world/linux/README.md)
   * [memcpy.asm](memcpy.asm)
 
 ## Ide
