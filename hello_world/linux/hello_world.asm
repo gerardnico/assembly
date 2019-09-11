@@ -1,5 +1,5 @@
 
-global _start    ;must be declared for linker (ld)
+global _start    ; must be declared for linker (ld)
 
 section	.text       ; or segment .txt
 
